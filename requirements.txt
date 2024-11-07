@@ -8,3 +8,4 @@ scipy
 scikit-learn>=0.18
 streamlit
 yfinance
+matplotlib
